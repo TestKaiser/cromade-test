@@ -1,0 +1,1208 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://cromade.ca" resolutions="1x" timestamp="1576600267447">
+  <folder name="css">
+    <file name="site_global.css" crc="187385240"/>
+    <file name="master_a-master.css" crc="155758967" ref="about:bathroom:living-space:index:contact:kitchen"/>
+    <file name="about.css" crc="285373552" ref="about"/>
+    <file name="iefonts_about.css" crc="4136707741" ref="about"/>
+    <file name="bathroom.css" crc="4252612330" ref="bathroom"/>
+    <file name="iefonts_bathroom.css" crc="4243330031" ref="bathroom"/>
+    <file name="living-space.css" crc="3837119411" ref="living-space"/>
+    <file name="iefonts_living-space.css" crc="4217439915" ref="living-space"/>
+    <file name="index.css" crc="3780364289" ref="index"/>
+    <file name="iefonts_index.css" crc="3908257317" ref="index"/>
+    <file name="contact.css" crc="4261802960" ref="contact"/>
+    <file name="iefonts_contact.css" crc="250160766" ref="contact"/>
+    <file name="kitchen.css" crc="4280557043" ref="kitchen"/>
+    <file name="iefonts_kitchen.css" crc="4173722881" ref="kitchen"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>about:phone>services:phone>projects:phone>contact:tablet>index:tablet>about:tablet>services:tablet>projects:tablet>contact:index:about:kitchen:contact:bathroom:living-space"/>
+    <file name="museutils.js" crc="3803043152" ref="phone>index:phone>about:phone>services:phone>projects:phone>contact:tablet>index:tablet>about:tablet>services:tablet>projects:tablet>contact:index:about:kitchen:contact:bathroom:living-space"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>about:phone>services:phone>projects:phone>contact:tablet>index:tablet>about:tablet>services:tablet>projects:tablet>contact:index:about:kitchen:contact:bathroom:living-space"/>
+    <file name="museconfig.js" crc="4153641093" ref="phone>index:phone>about:phone>services:phone>projects:phone>contact:tablet>index:tablet>about:tablet>services:tablet>projects:tablet>contact:index:about:kitchen:contact:bathroom:living-space"/>
+    <file name="jquery.watch.js" crc="99325471" ref="phone>index:phone>about:phone>services:phone>projects:phone>contact:tablet>index:tablet>about:tablet>services:tablet>projects:tablet>contact:index:about:kitchen:contact:bathroom:living-space"/>
+    <file name="webpro.js" crc="242022427" ref="phone>index:phone>about:phone>services:phone>projects:phone>contact:tablet>index:tablet>about:tablet>services:tablet>projects:tablet>contact:index:about:kitchen:contact:bathroom:living-space"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="phone>index:phone>about:phone>services:phone>projects:phone>contact:tablet>index:tablet>about:tablet>services:tablet>projects:tablet>contact:index:about:kitchen:contact:bathroom:living-space"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="phone>index:phone>about:phone>services:phone>projects:phone>contact:tablet>index:tablet>about:tablet>services:tablet>projects:tablet>contact:index:about:kitchen:contact:bathroom:living-space"/>
+    <file name="touchswipe.js" crc="4066113679" ref="phone>index:phone>about:phone>services:phone>projects:phone>contact:tablet>index:tablet>about:tablet>services:tablet>projects:tablet>contact:index:about:kitchen:contact:bathroom:living-space"/>
+    <file name="form_check.php" crc="147359589" ref="phone>index"/>
+    <file name="form_throttle.php" crc="93986428" ref="phone>index"/>
+    <file name="form_process.php" crc="3851993751" ref="phone>index"/>
+    <file name="form-u5842.php" crc="529262908" ref="phone>index"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="phone>index:phone>about:phone>services:phone>projects:phone>contact:tablet>index:tablet>about:tablet>services:tablet>projects:tablet>contact"/>
+    <file name="require.js" crc="4157109226" ref="phone>index:phone>about:phone>services:phone>projects:phone>contact:tablet>index:tablet>about:tablet>services:tablet>projects:tablet>contact:index:about:kitchen:contact:bathroom:living-space"/>
+    <file name="form-u6508.php" crc="183128868" ref="phone>contact"/>
+    <file name="form-u4925.php" crc="529262908" ref="tablet>index"/>
+    <file name="form-u5488.php" crc="508544241" ref="tablet>contact"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:about:kitchen:contact:bathroom:living-space"/>
+    <file name="form-u10399.php" crc="3964284721" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:kitchen:contact:bathroom:living-space"/>
+    <file name="form-u10278.php" crc="3971700010" ref="about"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="kitchen:living-space"/>
+    <file name="form-u4071.php" crc="3975549347" ref="contact"/>
+    <file name="form-u10519.php" crc="3765985999" ref="contact"/>
+    <file name="form-u11507.php" crc="466589752" ref="contact"/>
+    <file name="form-u11551.php" crc="3934414443" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="cromade_logo_cabinetry.png" crc="38326467" ref="phone>index:tablet>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="phone-menu.png" crc="165818711" ref="phone>index:tablet>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="menu-close.png" crc="343031237" ref="phone>index:tablet>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="slidshow-image-1.jpg" crc="4144248039" seo="true" ref="phone>index:tablet>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:phone>projects:tablet>index:tablet>projects:index:about:kitchen:contact:bathroom:living-space"/>
+    <file name="loading.gif" crc="3815509949" ref="phone>index:phone>projects:tablet>index:tablet>projects:index:about:kitchen:contact:bathroom:living-space"/>
+    <file name="award.png" crc="3914842818" ref="phone>index:tablet>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="documented.png" crc="431710719" ref="phone>index:tablet>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="customer-support.png" crc="9375789" ref="phone>index:tablet>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="featured-1-crop-u5785.jpg" crc="3878133559" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="featured-1-crop-u5791.jpg" crc="3878133559" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="featured-1-crop-u5797.jpg" crc="3878133559" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="featured-1-crop-u5787.jpg" crc="3878133559" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="featured-1-crop-u5793.jpg" crc="3878133559" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="featured-1-crop-u5789.jpg" crc="3878133559" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="featured-1-crop-u5795.jpg" crc="3878133559" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="left.png" crc="16554233" ref="phone>index:phone>projects:tablet>index:tablet>projects">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="right.png" crc="3800658675" ref="phone>index:phone>projects:tablet>index:tablet>projects">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="subscribe-bg.jpg" crc="3913222550" ref="phone>index:tablet>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="client-logo-6.png" crc="4049826255" ref="phone>index:tablet>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="client-logo-2.png" crc="4165570357" ref="phone>index:tablet>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fb-footer.png" crc="79704782" ref="phone>index:tablet>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="twitter-footer.png" crc="294560673" ref="phone>index:tablet>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="instagram_footer.png" crc="455085976" ref="phone>index:tablet>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pinterest_footer.png" crc="116717720" ref="phone>index:tablet>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dribble-footer.png" crc="4165030282" ref="phone>index:tablet>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="office-1.jpg" crc="201667500" ref="phone>about:tablet>about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="cro_project_design.jpg" crc="520308508" ref="phone>about:tablet>about:about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="per-fb-u5920.png" crc="3924473332" ref="phone>about"/>
+    <file name="per-fb-u5920-r.png" crc="427418" ref="phone>about"/>
+    <file name="per-twitter-u5915.png" crc="4167007608" ref="phone>about"/>
+    <file name="per-twitter-u5915-r.png" crc="353203660" ref="phone>about"/>
+    <file name="per-gplus-u5917.png" crc="4075751087" ref="phone>about"/>
+    <file name="per-gplus-u5917-r.png" crc="139425250" ref="phone>about"/>
+    <file name="per-fb-u5925.png" crc="3924473332" ref="phone>about"/>
+    <file name="per-fb-u5925-r.png" crc="427418" ref="phone>about"/>
+    <file name="per-twitter-u5929.png" crc="4167007608" ref="phone>about"/>
+    <file name="per-twitter-u5929-r.png" crc="353203660" ref="phone>about"/>
+    <file name="per-gplus-u5927.png" crc="4075751087" ref="phone>about"/>
+    <file name="per-gplus-u5927-r.png" crc="139425250" ref="phone>about"/>
+    <file name="per-fb-u5936.png" crc="3924473332" ref="phone>about"/>
+    <file name="per-fb-u5936-r.png" crc="427418" ref="phone>about"/>
+    <file name="per-twitter-u5938.png" crc="4167007608" ref="phone>about"/>
+    <file name="per-twitter-u5938-r.png" crc="353203660" ref="phone>about"/>
+    <file name="per-gplus-u5933.png" crc="4075751087" ref="phone>about"/>
+    <file name="per-gplus-u5933-r.png" crc="139425250" ref="phone>about"/>
+    <file name="per-fb-u5947.png" crc="3924473332" ref="phone>about"/>
+    <file name="per-fb-u5947-r.png" crc="427418" ref="phone>about"/>
+    <file name="per-twitter-u5940.png" crc="4167007608" ref="phone>about"/>
+    <file name="per-twitter-u5940-r.png" crc="353203660" ref="phone>about"/>
+    <file name="per-gplus-u5943.png" crc="4075751087" ref="phone>about"/>
+    <file name="per-gplus-u5943-r.png" crc="139425250" ref="phone>about"/>
+    <file name="projects.png" crc="490019961" ref="phone>about:tablet>about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="clients.png" crc="3929883337" ref="phone>about:tablet>about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="awards.png" crc="203467533" ref="phone>about:tablet>about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="coffee.png" crc="295138311" ref="phone>about:tablet>about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="cro_services_custom_kitchen.jpg" crc="518241684" ref="phone>services:tablet>services:about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="service-1.png" crc="4251707498" ref="phone>services:tablet>services">
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="service-2.png" crc="380883316" ref="phone>services:tablet>services">
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="service-3.png" crc="284103931" ref="phone>services:tablet>services">
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="service-4.png" crc="94587695" ref="phone>services:tablet>services">
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="client-1.jpg" crc="481703916" ref="phone>services:tablet>services">
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="featured-1-crop-u6220.jpg" crc="3878133559" seo="true" ref="phone>projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="featured-1-crop-u6222.jpg" crc="3878133559" seo="true" ref="phone>projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="featured-1-crop-u6224.jpg" crc="3878133559" seo="true" ref="phone>projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="featured-1-crop-u6226.jpg" crc="3878133559" seo="true" ref="phone>projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="featured-1-crop-u6230.jpg" crc="3878133559" seo="true" ref="phone>projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="featured-1-crop-u6228.jpg" crc="3878133559" seo="true" ref="phone>projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="featured-1-crop-u6218.jpg" crc="3878133559" seo="true" ref="phone>projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="featured-1-crop-u6330.jpg" crc="3878133559" seo="true" ref="phone>projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="featured-1-crop-u6338.jpg" crc="3878133559" seo="true" ref="phone>projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="featured-1-crop-u6328.jpg" crc="3878133559" seo="true" ref="phone>projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="featured-1-crop-u6340.jpg" crc="3878133559" seo="true" ref="phone>projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="featured-1-crop-u6336.jpg" crc="3878133559" seo="true" ref="phone>projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="featured-1-crop-u6334.jpg" crc="3878133559" seo="true" ref="phone>projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="featured-1-crop-u6332.jpg" crc="3878133559" seo="true" ref="phone>projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="featured-1-crop-u6465.jpg" crc="3878133559" seo="true" ref="phone>projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="featured-1-crop-u6457.jpg" crc="3878133559" seo="true" ref="phone>projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="featured-1-crop-u6467.jpg" crc="3878133559" seo="true" ref="phone>projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="featured-1-crop-u6461.jpg" crc="3878133559" seo="true" ref="phone>projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="featured-1-crop-u6463.jpg" crc="3878133559" seo="true" ref="phone>projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="featured-1-crop-u6459.jpg" crc="3878133559" seo="true" ref="phone>projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="featured-1-crop-u6469.jpg" crc="3878133559" seo="true" ref="phone>projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="address.png" crc="114344737" ref="phone>contact:tablet>contact:contact">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="phone2.png" crc="316493586" ref="phone>contact:tablet>contact:contact">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="mail.png" crc="4149195635" ref="phone>contact:tablet>contact">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="cro_arrows_l.jpg" crc="4066256894" ref="tablet>index:index:bathroom:living-space">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="bathroom" alt=""/>
+      <caption webpage="bathroom" alt=""/>
+      <caption webpage="bathroom" alt=""/>
+      <caption webpage="bathroom" alt=""/>
+    </file>
+    <file name="cro_arrows_r.jpg" crc="4126739451" ref="tablet>index:index:bathroom:living-space">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="bathroom" alt=""/>
+      <caption webpage="bathroom" alt=""/>
+      <caption webpage="bathroom" alt=""/>
+      <caption webpage="bathroom" alt=""/>
+    </file>
+    <file name="featured-1.jpg" crc="4057203878" seo="true" ref="tablet>index:tablet>projects">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="client-logo-3.png" crc="4159617078" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="per-fb-u5039.png" crc="3924473332" ref="tablet>about"/>
+    <file name="per-fb-u5039-r.png" crc="427418" ref="tablet>about"/>
+    <file name="per-twitter-u5040.png" crc="4167007608" ref="tablet>about"/>
+    <file name="per-twitter-u5040-r.png" crc="353203660" ref="tablet>about"/>
+    <file name="per-gplus-u5041.png" crc="4075751087" ref="tablet>about"/>
+    <file name="per-gplus-u5041-r.png" crc="139425250" ref="tablet>about"/>
+    <file name="per-fb-u5015.png" crc="3924473332" ref="tablet>about"/>
+    <file name="per-fb-u5015-r.png" crc="427418" ref="tablet>about"/>
+    <file name="per-twitter-u5016.png" crc="4167007608" ref="tablet>about"/>
+    <file name="per-twitter-u5016-r.png" crc="353203660" ref="tablet>about"/>
+    <file name="per-gplus-u5017.png" crc="4075751087" ref="tablet>about"/>
+    <file name="per-gplus-u5017-r.png" crc="139425250" ref="tablet>about"/>
+    <file name="per-fb-u5023.png" crc="3924473332" ref="tablet>about"/>
+    <file name="per-fb-u5023-r.png" crc="427418" ref="tablet>about"/>
+    <file name="per-twitter-u5024.png" crc="4167007608" ref="tablet>about"/>
+    <file name="per-twitter-u5024-r.png" crc="353203660" ref="tablet>about"/>
+    <file name="per-gplus-u5025.png" crc="4075751087" ref="tablet>about"/>
+    <file name="per-gplus-u5025-r.png" crc="139425250" ref="tablet>about"/>
+    <file name="per-fb-u5031.png" crc="3924473332" ref="tablet>about"/>
+    <file name="per-fb-u5031-r.png" crc="427418" ref="tablet>about"/>
+    <file name="per-twitter-u5032.png" crc="4167007608" ref="tablet>about"/>
+    <file name="per-twitter-u5032-r.png" crc="353203660" ref="tablet>about"/>
+    <file name="per-gplus-u5033.png" crc="4075751087" ref="tablet>about"/>
+    <file name="per-gplus-u5033-r.png" crc="139425250" ref="tablet>about"/>
+    <file name="shutterstock_49406962.jpg" crc="340492331" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="shutterstock_118661548.jpg" crc="534871928" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="shutterstock_230741509.jpg" crc="4143056902" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cro_logo.svg" crc="315299468" seo="true" ref="index:about:kitchen:contact:bathroom:living-space">
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="bathroom" alt=""/>
+      <caption webpage="kitchen" alt=""/>
+      <caption webpage="living-space" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="cro_logo_poster_.png" crc="172892937" ref="index"/>
+    <file name="cro_home_featured_project_5.jpg" crc="4249494561" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cro_home_featured_project_2.jpg" crc="3930266041" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cro_home_featured_project_6.jpg" crc="186096421" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cro_home_featured_project_7.jpg" crc="4031005174" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cro_home_featured_project_1.jpg" crc="29924391" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cro_home_featured_project_3.jpg" crc="130562818" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cromade_home_craftmanship_1.jpg" crc="3827264600" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cromade_home_craftmanship_2.jpg" crc="4064396317" seo="true" ref="index:about:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="cromade_home_craftmanship_3.jpg" crc="105929153" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cro_project_production.jpg" crc="413449320" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="cro_project_installation.jpg" crc="353975667" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="cro_services_custom_bathroom.jpg" crc="3933619639" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="cro_services_custom_living.jpg" crc="4112734308" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="shutterstock_245146273.jpg" crc="4275370267" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="cro_kitchen_traditional_2.jpg" crc="3911927460" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="cro_kitchen_traditional_3.jpg" crc="483466408" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="cro_kitchen_traditional_4.jpg" crc="4103843402" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="cro_kitchen_traditional_5.jpg" crc="331191148" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="cro_kitchen_traditional_6.jpg" crc="4091023753" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="cro_kitchen_traditional_7.jpg" crc="323406139" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="cro_kitchen_traditional_8.jpg" crc="4157227591" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="cro_kitchen_traditional_9.jpg" crc="533921681" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="cro_kitchen_traditional_1.jpg" crc="3826576381" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="cro_kitchen_traditional_1-crop-u9186.jpg" crc="289137683" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="cro_kitchen_traditional_2-crop-u9088.jpg" crc="479971951" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="cro_kitchen_traditional_6-crop-u9231.jpg" crc="91862147" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="cro_kitchen_traditional_3-crop-u9162.jpg" crc="255674564" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="cro_kitchen_traditional_7-crop-u9243.jpg" crc="378238226" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="cro_kitchen_traditional_4-crop-u9174.jpg" crc="4100497005" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="cro_kitchen_traditional_8-crop-u9255.jpg" crc="267212371" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="cro_kitchen_traditional_5-crop-u9206.jpg" crc="325760154" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="cro_kitchen_traditional_9-crop-u9267.jpg" crc="4245748615" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="cro_arrows_l-u9107-3-fr.jpg" crc="4146741060" ref="kitchen"/>
+    <file name="cro_arrows_r-u9105-3-fr.jpg" crc="3778657017" ref="kitchen"/>
+    <file name="cro_kitchen_transitional_2.jpg" crc="236127030" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="cro_kitchen_transitional_4.jpg" crc="3850169534" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="cro_kitchen_transitional_3.jpg" crc="4860977" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="cro_kitchen_transitional_5.jpg" crc="4283743123" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="cro_kitchen_transitional_6.jpg" crc="26715158" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="cro_kitchen_transitional_7.jpg" crc="4218084135" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="cro_kitchen_transitional_8.jpg" crc="4057864328" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="cro_kitchen_transitional_9.jpg" crc="68759975" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="cro_kitchen_transitional_1.jpg" crc="3829288173" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="cro_kitchen_transitional_1-crop-u9326.jpg" crc="458344317" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="cro_kitchen_transitional_2-crop-u9322.jpg" crc="390261658" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="cro_kitchen_transitional_6-crop-u9318.jpg" crc="21145119" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="cro_kitchen_transitional_4-crop-u9314.jpg" crc="262039022" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="cro_kitchen_transitional_7-crop-u9316.jpg" crc="445181056" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="cro_kitchen_transitional_3-crop-u9328.jpg" crc="3956759314" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="cro_kitchen_transitional_8-crop-u9330.jpg" crc="3854049070" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="cro_kitchen_transitional_5-crop-u9320.jpg" crc="83636207" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="cro_kitchen_transitional_9-crop-u9324.jpg" crc="4207647967" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="cro_arrows_l-u9332-3-fr.jpg" crc="4042583448" ref="kitchen"/>
+    <file name="cro_arrows_r-u9311-3-fr.jpg" crc="4291272843" ref="kitchen"/>
+    <file name="cro_kitchen_contemporary_1.jpg" crc="316894070" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="cro_kitchen_contemporary_2.jpg" crc="4191008067" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="cro_kitchen_contemporary_3.jpg" crc="528542572" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="cro_kitchen_contemporary_4.jpg" crc="3938571828" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="cro_kitchen_contemporary_5.jpg" crc="3897607488" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="cro_kitchen_contemporary_6.jpg" crc="230419287" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="cro_kitchen_contemporary_7.jpg" crc="148010866" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="cro_kitchen_contemporary_8.jpg" crc="178224053" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="slidshow-image-1-crop-u9367.jpg" crc="377944005" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="slidshow-image-1-crop-u9394.jpg" crc="3945925917" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="cro_kitchen_contemporary_1-crop-u9382.jpg" crc="301909775" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="cro_kitchen_contemporary_5-crop-u9388.jpg" crc="85062187" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="cro_kitchen_contemporary_2-crop-u9390.jpg" crc="3806274222" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="cro_kitchen_contemporary_6-crop-u9378.jpg" crc="3586389" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="cro_kitchen_contemporary_3-crop-u9386.jpg" crc="4067909865" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="cro_kitchen_contemporary_7-crop-u9392.jpg" crc="3890168177" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="cro_kitchen_contemporary_4-crop-u9384.jpg" crc="380658904" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="cro_kitchen_contemporary_8-crop-u9380.jpg" crc="364649574" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="cro_kitchen_modern_2.jpg" crc="3817713274" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="cro_kitchen_modern_3.jpg" crc="3908742403" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="cro_kitchen_modern_4.jpg" crc="278396414" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="cro_kitchen_modern_5.jpg" crc="452625246" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="cro_kitchen_modern_6.jpg" crc="4162473514" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="cro_kitchen_modern_8.jpg" crc="12808324" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="cro_kitchen_modern_7.jpg" crc="251889638" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="cro_kitchen_modern_9.jpg" crc="481099381" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="cro_kitchen_modern_1.jpg" crc="4073181886" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="cro_kitchen_modern_1-crop-u9436.jpg" crc="269023473" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="cro_kitchen_modern_2-crop-u9452.jpg" crc="4135243581" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="cro_kitchen_modern_6-crop-u9446.jpg" crc="326606620" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="cro_kitchen_modern_3-crop-u9450.jpg" crc="358541922" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="cro_kitchen_modern_8-crop-u9438.jpg" crc="379833468" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="cro_kitchen_modern_4-crop-u9448.jpg" crc="203903631" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="cro_kitchen_modern_7-crop-u9444.jpg" crc="4152867437" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="cro_kitchen_modern_5-crop-u9442.jpg" crc="530227723" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="cro_kitchen_modern_9-crop-u9440.jpg" crc="3785908200" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="shutterstock_109770035.jpg" crc="211360935" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="time.png" crc="4018294912" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="cro_kitchen_sketch_1.jpg" crc="343971456" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="cro_kitchen_sketch_2.jpg" crc="3908468043" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="shutterstock_304255124.jpg" crc="4165171303" seo="true" ref="bathroom">
+      <caption webpage="bathroom" alt=""/>
+    </file>
+    <file name="cro_bath_traditional_9.jpg" crc="3775882430" seo="true" ref="bathroom">
+      <caption webpage="bathroom" alt=""/>
+      <caption webpage="bathroom" alt=""/>
+    </file>
+    <file name="cro_bath_traditional_8.jpg" crc="3758338386" seo="true" ref="bathroom">
+      <caption webpage="bathroom" alt=""/>
+    </file>
+    <file name="cro_bath_traditional_7.jpg" crc="436159910" seo="true" ref="bathroom">
+      <caption webpage="bathroom" alt=""/>
+    </file>
+    <file name="cro_bath_traditional_6.jpg" crc="449801446" seo="true" ref="bathroom">
+      <caption webpage="bathroom" alt=""/>
+    </file>
+    <file name="cro_bath_traditional_5.jpg" crc="4122644542" seo="true" ref="bathroom">
+      <caption webpage="bathroom" alt=""/>
+    </file>
+    <file name="cro_bath_traditional_4.jpg" crc="426807885" seo="true" ref="bathroom">
+      <caption webpage="bathroom" alt=""/>
+    </file>
+    <file name="cro_bath_traditional_3.jpg" crc="149363202" seo="true" ref="bathroom">
+      <caption webpage="bathroom" alt=""/>
+    </file>
+    <file name="cro_bath_traditional_2.jpg" crc="251392424" seo="true" ref="bathroom">
+      <caption webpage="bathroom" alt=""/>
+    </file>
+    <file name="cro_bath_traditional_1.jpg" crc="3998663376" seo="true" ref="bathroom">
+      <caption webpage="bathroom" alt=""/>
+    </file>
+    <file name="cro_bath_traditional_6-crop-u9634.jpg" crc="4051164962" seo="true" ref="bathroom">
+      <caption webpage="bathroom" alt=""/>
+    </file>
+    <file name="cro_bath_traditional_5-crop-u12204.jpg" crc="419038939" seo="true" ref="bathroom">
+      <caption webpage="bathroom" alt=""/>
+    </file>
+    <file name="cro_bath_traditional_1-crop-u12240.jpg" crc="206819281" seo="true" ref="bathroom">
+      <caption webpage="bathroom" alt=""/>
+    </file>
+    <file name="cro_bath_traditional_4-crop-u12213.jpg" crc="4232559938" seo="true" ref="bathroom">
+      <caption webpage="bathroom" alt=""/>
+    </file>
+    <file name="cro_bath_traditional_9-crop-u9618.jpg" crc="3763143807" seo="true" ref="bathroom">
+      <caption webpage="bathroom" alt=""/>
+    </file>
+    <file name="cro_bath_traditional_3-crop-u12222.jpg" crc="3985300715" seo="true" ref="bathroom">
+      <caption webpage="bathroom" alt=""/>
+    </file>
+    <file name="cro_bath_traditional_8-crop-u9632.jpg" crc="3825176185" seo="true" ref="bathroom">
+      <caption webpage="bathroom" alt=""/>
+    </file>
+    <file name="cro_bath_traditional_2-crop-u12231.jpg" crc="522997894" seo="true" ref="bathroom">
+      <caption webpage="bathroom" alt=""/>
+    </file>
+    <file name="cro_bath_traditional_7-crop-u9620.jpg" crc="31357731" seo="true" ref="bathroom">
+      <caption webpage="bathroom" alt=""/>
+    </file>
+    <file name="cro_bath_transitional_10.jpg" crc="239617104" seo="true" ref="bathroom">
+      <caption webpage="bathroom" alt=""/>
+    </file>
+    <file name="cro_bath_transitional_8.jpg" crc="4287200923" seo="true" ref="bathroom">
+      <caption webpage="bathroom" alt=""/>
+    </file>
+    <file name="cro_bath_transitional_7.jpg" crc="3917980107" seo="true" ref="bathroom">
+      <caption webpage="bathroom" alt=""/>
+    </file>
+    <file name="cro_bath_transitional_6.jpg" crc="3788494677" seo="true" ref="bathroom">
+      <caption webpage="bathroom" alt=""/>
+    </file>
+    <file name="cro_bath_transitional_5.jpg" crc="3882903919" seo="true" ref="bathroom">
+      <caption webpage="bathroom" alt=""/>
+    </file>
+    <file name="cro_bath_transitional_3.jpg" crc="4131170472" seo="true" ref="bathroom">
+      <caption webpage="bathroom" alt=""/>
+    </file>
+    <file name="cro_bath_transitional_2.jpg" crc="3828541415" seo="true" ref="bathroom">
+      <caption webpage="bathroom" alt=""/>
+    </file>
+    <file name="cro_bath_transitional_1.jpg" crc="3906848175" seo="true" ref="bathroom">
+      <caption webpage="bathroom" alt=""/>
+    </file>
+    <file name="cro_bath_transitional_6-crop-u9654.jpg" crc="280660098" seo="true" ref="bathroom">
+      <caption webpage="bathroom" alt=""/>
+    </file>
+    <file name="cro_bath_transitional_5-crop-u12310.jpg" crc="4058881545" seo="true" ref="bathroom">
+      <caption webpage="bathroom" alt=""/>
+    </file>
+    <file name="cro_bath_transitional_10-crop-u9664.jpg" crc="4060313410" seo="true" ref="bathroom">
+      <caption webpage="bathroom" alt=""/>
+    </file>
+    <file name="cro_bath_transitional_3-crop-u12328.jpg" crc="34581425" seo="true" ref="bathroom">
+      <caption webpage="bathroom" alt=""/>
+    </file>
+    <file name="cro_bath_traditional_9-crop-u9656.jpg" crc="4119409796" seo="true" ref="bathroom">
+      <caption webpage="bathroom" alt=""/>
+    </file>
+    <file name="cro_bath_transitional_2-crop-u12337.jpg" crc="187411522" seo="true" ref="bathroom">
+      <caption webpage="bathroom" alt=""/>
+    </file>
+    <file name="cro_bath_transitional_8-crop-u9662.jpg" crc="3956776094" seo="true" ref="bathroom">
+      <caption webpage="bathroom" alt=""/>
+    </file>
+    <file name="cro_bath_transitional_1-crop-u12346.jpg" crc="266869720" seo="true" ref="bathroom">
+      <caption webpage="bathroom" alt=""/>
+    </file>
+    <file name="cro_bath_transitional_7-crop-u9658.jpg" crc="257754854" seo="true" ref="bathroom">
+      <caption webpage="bathroom" alt=""/>
+    </file>
+    <file name="cro_bath_contemporary_9.jpg" crc="3936362730" seo="true" ref="bathroom">
+      <caption webpage="bathroom" alt=""/>
+    </file>
+    <file name="cro_bath_contemporary_8.jpg" crc="4176303186" seo="true" ref="bathroom">
+      <caption webpage="bathroom" alt=""/>
+    </file>
+    <file name="cro_bath_contemporary_7.jpg" crc="160645983" seo="true" ref="bathroom">
+      <caption webpage="bathroom" alt=""/>
+    </file>
+    <file name="cro_bath_contemporary_6.jpg" crc="3784561274" seo="true" ref="bathroom">
+      <caption webpage="bathroom" alt=""/>
+    </file>
+    <file name="cro_bath_contemporary_5.jpg" crc="4222127515" seo="true" ref="bathroom">
+      <caption webpage="bathroom" alt=""/>
+    </file>
+    <file name="cro_bath_contemporary_4.jpg" crc="489770796" seo="true" ref="bathroom">
+      <caption webpage="bathroom" alt=""/>
+    </file>
+    <file name="cro_bath_contemporary_3.jpg" crc="4164022761" seo="true" ref="bathroom">
+      <caption webpage="bathroom" alt=""/>
+    </file>
+    <file name="cro_bath_contemporary_2.jpg" crc="4172697034" seo="true" ref="bathroom">
+      <caption webpage="bathroom" alt=""/>
+    </file>
+    <file name="cro_bath_contemporary_1.jpg" crc="196361350" seo="true" ref="bathroom">
+      <caption webpage="bathroom" alt=""/>
+    </file>
+    <file name="cro_bath_contemporary_8-crop-u9535.jpg" crc="282367017" seo="true" ref="bathroom">
+      <caption webpage="bathroom" alt=""/>
+    </file>
+    <file name="cro_bath_contemporary_7-crop-u12516.jpg" crc="4013586631" seo="true" ref="bathroom">
+      <caption webpage="bathroom" alt=""/>
+    </file>
+    <file name="cro_bath_contemporary_6-crop-u12525.jpg" crc="4000828459" seo="true" ref="bathroom">
+      <caption webpage="bathroom" alt=""/>
+    </file>
+    <file name="cro_bath_contemporary_5-crop-u12534.jpg" crc="71341740" seo="true" ref="bathroom">
+      <caption webpage="bathroom" alt=""/>
+    </file>
+    <file name="cro_bath_contemporary_4-crop-u12543.jpg" crc="252161355" seo="true" ref="bathroom">
+      <caption webpage="bathroom" alt=""/>
+    </file>
+    <file name="cro_bath_contemporary_1-crop-u12570.jpg" crc="26082899" seo="true" ref="bathroom">
+      <caption webpage="bathroom" alt=""/>
+    </file>
+    <file name="cro_bath_contemporary_3-crop-u12552.jpg" crc="257525469" seo="true" ref="bathroom">
+      <caption webpage="bathroom" alt=""/>
+    </file>
+    <file name="cro_bath_contemporary_2-crop-u12561.jpg" crc="4254573538" seo="true" ref="bathroom">
+      <caption webpage="bathroom" alt=""/>
+    </file>
+    <file name="cro_bath_contemporary_9-crop-u9533.jpg" crc="74819075" seo="true" ref="bathroom">
+      <caption webpage="bathroom" alt=""/>
+    </file>
+    <file name="cro_bath_modern_9.jpg" crc="3939034420" seo="true" ref="bathroom">
+      <caption webpage="bathroom" alt=""/>
+    </file>
+    <file name="cro_bath_modern_8.jpg" crc="524116693" seo="true" ref="bathroom">
+      <caption webpage="bathroom" alt=""/>
+    </file>
+    <file name="cro_bath_modern_7.jpg" crc="113013376" seo="true" ref="bathroom">
+      <caption webpage="bathroom" alt=""/>
+    </file>
+    <file name="cro_bath_modern_6.jpg" crc="254696190" seo="true" ref="bathroom">
+      <caption webpage="bathroom" alt=""/>
+    </file>
+    <file name="cro_bath_modern_5.jpg" crc="30998109" seo="true" ref="bathroom">
+      <caption webpage="bathroom" alt=""/>
+    </file>
+    <file name="cro_bath_modern_4.jpg" crc="4062234315" seo="true" ref="bathroom">
+      <caption webpage="bathroom" alt=""/>
+    </file>
+    <file name="cro_bath_modern_3.jpg" crc="4097391371" seo="true" ref="bathroom">
+      <caption webpage="bathroom" alt=""/>
+    </file>
+    <file name="cro_bath_modern_2.jpg" crc="4117643099" seo="true" ref="bathroom">
+      <caption webpage="bathroom" alt=""/>
+    </file>
+    <file name="cro_bath_modern_1.jpg" crc="4177299989" seo="true" ref="bathroom">
+      <caption webpage="bathroom" alt=""/>
+    </file>
+    <file name="cro_bath_modern_8-crop-u9732.jpg" crc="4057725882" seo="true" ref="bathroom">
+      <caption webpage="bathroom" alt=""/>
+    </file>
+    <file name="cro_bath_modern_7-crop-u12629.jpg" crc="511332532" seo="true" ref="bathroom">
+      <caption webpage="bathroom" alt=""/>
+    </file>
+    <file name="cro_bath_modern_3-crop-u12665.jpg" crc="3905414174" seo="true" ref="bathroom">
+      <caption webpage="bathroom" alt=""/>
+    </file>
+    <file name="cro_bath_modern_6-crop-u12638.jpg" crc="185865686" seo="true" ref="bathroom">
+      <caption webpage="bathroom" alt=""/>
+    </file>
+    <file name="cro_bath_modern_2-crop-u12674.jpg" crc="507309281" seo="true" ref="bathroom">
+      <caption webpage="bathroom" alt=""/>
+    </file>
+    <file name="cro_bath_modern_5-crop-u12647.jpg" crc="332795650" seo="true" ref="bathroom">
+      <caption webpage="bathroom" alt=""/>
+    </file>
+    <file name="cro_bath_modern_1-crop-u12683.jpg" crc="4158670776" seo="true" ref="bathroom">
+      <caption webpage="bathroom" alt=""/>
+    </file>
+    <file name="cro_bath_modern_4-crop-u12656.jpg" crc="381204152" seo="true" ref="bathroom">
+      <caption webpage="bathroom" alt=""/>
+    </file>
+    <file name="cro_bath_modern_9-crop-u9734.jpg" crc="4077733769" seo="true" ref="bathroom">
+      <caption webpage="bathroom" alt=""/>
+    </file>
+    <file name="shutterstock_230198287.jpg" crc="3870514373" seo="true" ref="living-space">
+      <caption webpage="living-space" alt=""/>
+    </file>
+    <file name="cro_living_traditional_9.jpg" crc="174207635" seo="true" ref="living-space">
+      <caption webpage="living-space" alt=""/>
+    </file>
+    <file name="cro_living_traditional_8.jpg" crc="274111520" seo="true" ref="living-space">
+      <caption webpage="living-space" alt=""/>
+    </file>
+    <file name="cro_living_traditional_7.jpg" crc="4102785207" seo="true" ref="living-space">
+      <caption webpage="living-space" alt=""/>
+    </file>
+    <file name="cro_living_traditional_6.jpg" crc="4007705174" seo="true" ref="living-space">
+      <caption webpage="living-space" alt=""/>
+    </file>
+    <file name="cro_living_traditional_5.jpg" crc="4102937861" seo="true" ref="living-space">
+      <caption webpage="living-space" alt=""/>
+    </file>
+    <file name="cro_living_traditional_4.jpg" crc="4159325244" seo="true" ref="living-space">
+      <caption webpage="living-space" alt=""/>
+    </file>
+    <file name="cro_living_traditional_3.jpg" crc="3770635474" seo="true" ref="living-space">
+      <caption webpage="living-space" alt=""/>
+    </file>
+    <file name="cro_living_traditional_2.jpg" crc="4220886009" seo="true" ref="living-space">
+      <caption webpage="living-space" alt=""/>
+    </file>
+    <file name="cro_living_traditional_1.jpg" crc="158244219" seo="true" ref="living-space">
+      <caption webpage="living-space" alt=""/>
+    </file>
+    <file name="cro_living_traditional_8-crop-u11783.jpg" crc="4049605449" seo="true" ref="living-space">
+      <caption webpage="living-space" alt=""/>
+    </file>
+    <file name="cro_living_traditional_4-crop-u9881.jpg" crc="3852399070" seo="true" ref="living-space">
+      <caption webpage="living-space" alt=""/>
+    </file>
+    <file name="cro_living_traditional_9-crop-u9887.jpg" crc="4104952228" seo="true" ref="living-space">
+      <caption webpage="living-space" alt=""/>
+    </file>
+    <file name="cro_living_traditional_3-crop-u11800.jpg" crc="472140916" seo="true" ref="living-space">
+      <caption webpage="living-space" alt=""/>
+    </file>
+    <file name="cro_living_traditional_7-crop-u9895.jpg" crc="3869302068" seo="true" ref="living-space">
+      <caption webpage="living-space" alt=""/>
+    </file>
+    <file name="cro_living_traditional_2-crop-u11809.jpg" crc="3760120738" seo="true" ref="living-space">
+      <caption webpage="living-space" alt=""/>
+    </file>
+    <file name="cro_living_traditional_6-crop-u9883.jpg" crc="3842842987" seo="true" ref="living-space">
+      <caption webpage="living-space" alt=""/>
+    </file>
+    <file name="cro_living_traditional_1-crop-u11818.jpg" crc="296249890" seo="true" ref="living-space">
+      <caption webpage="living-space" alt=""/>
+    </file>
+    <file name="cro_living_traditional_5-crop-u9889.jpg" crc="269016954" seo="true" ref="living-space">
+      <caption webpage="living-space" alt=""/>
+    </file>
+    <file name="cro_living_transitional_9.jpg" crc="3506079" seo="true" ref="living-space">
+      <caption webpage="living-space" alt=""/>
+    </file>
+    <file name="cro_living_transitional_8.jpg" crc="3873969637" seo="true" ref="living-space">
+      <caption webpage="living-space" alt=""/>
+    </file>
+    <file name="cro_living_transitional_7.jpg" crc="3892638515" seo="true" ref="living-space">
+      <caption webpage="living-space" alt=""/>
+    </file>
+    <file name="cro_living_transitional_6.jpg" crc="359908717" seo="true" ref="living-space">
+      <caption webpage="living-space" alt=""/>
+    </file>
+    <file name="cro_living_transitional_5.jpg" crc="492343648" seo="true" ref="living-space">
+      <caption webpage="living-space" alt=""/>
+    </file>
+    <file name="cro_living_transitional_4.jpg" crc="3821559915" seo="true" ref="living-space">
+      <caption webpage="living-space" alt=""/>
+    </file>
+    <file name="cro_living_transitional_3.jpg" crc="231006521" seo="true" ref="living-space">
+      <caption webpage="living-space" alt=""/>
+    </file>
+    <file name="cro_living_transitional_2.jpg" crc="3991160144" seo="true" ref="living-space">
+      <caption webpage="living-space" alt=""/>
+    </file>
+    <file name="cro_living_transitional_1.jpg" crc="32679255" seo="true" ref="living-space">
+      <caption webpage="living-space" alt=""/>
+    </file>
+    <file name="cro_living_transitional_1-crop-u11918.jpg" crc="531184549" seo="true" ref="living-space">
+      <caption webpage="living-space" alt=""/>
+    </file>
+    <file name="cro_living_transitional_5-crop-u10013.jpg" crc="502868258" seo="true" ref="living-space">
+      <caption webpage="living-space" alt=""/>
+    </file>
+    <file name="cro_living_transitional_9-crop-u10003.jpg" crc="4148243806" seo="true" ref="living-space">
+      <caption webpage="living-space" alt=""/>
+    </file>
+    <file name="cro_living_transitional_4-crop-u11891.jpg" crc="517438777" seo="true" ref="living-space">
+      <caption webpage="living-space" alt=""/>
+    </file>
+    <file name="cro_living_transitional_8-crop-u10005.jpg" crc="146382793" seo="true" ref="living-space">
+      <caption webpage="living-space" alt=""/>
+    </file>
+    <file name="cro_living_transitional_3-crop-u11900.jpg" crc="3846386323" seo="true" ref="living-space">
+      <caption webpage="living-space" alt=""/>
+    </file>
+    <file name="cro_living_transitional_7-crop-u10009.jpg" crc="442266974" seo="true" ref="living-space">
+      <caption webpage="living-space" alt=""/>
+    </file>
+    <file name="cro_living_transitional_2-crop-u11909.jpg" crc="326925263" seo="true" ref="living-space">
+      <caption webpage="living-space" alt=""/>
+    </file>
+    <file name="cro_living_transitional_6-crop-u9997.jpg" crc="6664701" seo="true" ref="living-space">
+      <caption webpage="living-space" alt=""/>
+    </file>
+    <file name="cro_living_contemporary_9.jpg" crc="348178588" seo="true" ref="living-space">
+      <caption webpage="living-space" alt=""/>
+    </file>
+    <file name="cro_living_contemporary_8.jpg" crc="3831218123" seo="true" ref="living-space">
+      <caption webpage="living-space" alt=""/>
+    </file>
+    <file name="cro_living_contemporary_7.jpg" crc="522554887" seo="true" ref="living-space">
+      <caption webpage="living-space" alt=""/>
+    </file>
+    <file name="cro_living_contemporary_6.jpg" crc="4200587279" seo="true" ref="living-space">
+      <caption webpage="living-space" alt=""/>
+    </file>
+    <file name="cro_living_contemporary_5.jpg" crc="3870612269" seo="true" ref="living-space">
+      <caption webpage="living-space" alt=""/>
+    </file>
+    <file name="cro_living_contemporary_4.jpg" crc="348220142" seo="true" ref="living-space">
+      <caption webpage="living-space" alt=""/>
+    </file>
+    <file name="cro_living_contemporary_3.jpg" crc="117224234" seo="true" ref="living-space">
+      <caption webpage="living-space" alt=""/>
+    </file>
+    <file name="cro_living_contemporary_2.jpg" crc="8845115" seo="true" ref="living-space">
+      <caption webpage="living-space" alt=""/>
+    </file>
+    <file name="cro_living_contemporary_1.jpg" crc="3943065303" seo="true" ref="living-space">
+      <caption webpage="living-space" alt=""/>
+    </file>
+    <file name="cro_living_contemporary_5-crop-u9988.jpg" crc="194156222" seo="true" ref="living-space">
+      <caption webpage="living-space" alt=""/>
+    </file>
+    <file name="cro_living_contemporary_4-crop-u11991.jpg" crc="3969767623" seo="true" ref="living-space">
+      <caption webpage="living-space" alt=""/>
+    </file>
+    <file name="cro_living_contemporary_9-crop-u9978.jpg" crc="3842042039" seo="true" ref="living-space">
+      <caption webpage="living-space" alt=""/>
+    </file>
+    <file name="cro_living_contemporary_3-crop-u12000.jpg" crc="232655708" seo="true" ref="living-space">
+      <caption webpage="living-space" alt=""/>
+    </file>
+    <file name="cro_living_contemporary_8-crop-u9986.jpg" crc="435378368" seo="true" ref="living-space">
+      <caption webpage="living-space" alt=""/>
+    </file>
+    <file name="cro_living_contemporary_2-crop-u12009.jpg" crc="144023679" seo="true" ref="living-space">
+      <caption webpage="living-space" alt=""/>
+    </file>
+    <file name="cro_living_contemporary_7-crop-u9984.jpg" crc="324861352" seo="true" ref="living-space">
+      <caption webpage="living-space" alt=""/>
+    </file>
+    <file name="cro_living_contemporary_1-crop-u12018.jpg" crc="172012086" seo="true" ref="living-space">
+      <caption webpage="living-space" alt=""/>
+    </file>
+    <file name="cro_living_contemporary_6-crop-u9982.jpg" crc="248741688" seo="true" ref="living-space">
+      <caption webpage="living-space" alt=""/>
+    </file>
+    <file name="cro_living_modern_9.jpg" crc="3845813031" seo="true" ref="living-space">
+      <caption webpage="living-space" alt=""/>
+    </file>
+    <file name="cro_living_modern_8.jpg" crc="4048963227" seo="true" ref="living-space">
+      <caption webpage="living-space" alt=""/>
+    </file>
+    <file name="cro_living_modern_7.jpg" crc="4280090726" seo="true" ref="living-space">
+      <caption webpage="living-space" alt=""/>
+    </file>
+    <file name="cro_living_modern_6.jpg" crc="115501122" seo="true" ref="living-space">
+      <caption webpage="living-space" alt=""/>
+    </file>
+    <file name="cro_living_modern_5.jpg" crc="278178620" seo="true" ref="living-space">
+      <caption webpage="living-space" alt=""/>
+    </file>
+    <file name="cro_living_modern_4.jpg" crc="153178994" seo="true" ref="living-space">
+      <caption webpage="living-space" alt=""/>
+    </file>
+    <file name="cro_living_modern_3.jpg" crc="4130548283" seo="true" ref="living-space">
+      <caption webpage="living-space" alt=""/>
+    </file>
+    <file name="cro_living_modern_2.jpg" crc="3885258872" seo="true" ref="living-space">
+      <caption webpage="living-space" alt=""/>
+    </file>
+    <file name="cro_living_modern_1.jpg" crc="4213108881" seo="true" ref="living-space">
+      <caption webpage="living-space" alt=""/>
+    </file>
+    <file name="cro_living_modern_6-crop-u10082.jpg" crc="4152756164" seo="true" ref="living-space">
+      <caption webpage="living-space" alt=""/>
+    </file>
+    <file name="cro_living_modern_5-crop-u12089.jpg" crc="315430605" seo="true" ref="living-space">
+      <caption webpage="living-space" alt=""/>
+    </file>
+    <file name="cro_living_modern_1-crop-u12125.jpg" crc="296572977" seo="true" ref="living-space">
+      <caption webpage="living-space" alt=""/>
+    </file>
+    <file name="cro_living_modern_4-crop-u12098.jpg" crc="3979467425" seo="true" ref="living-space">
+      <caption webpage="living-space" alt=""/>
+    </file>
+    <file name="cro_living_modern_9-crop-u10080.jpg" crc="3907359280" seo="true" ref="living-space">
+      <caption webpage="living-space" alt=""/>
+    </file>
+    <file name="cro_living_modern_3-crop-u12107.jpg" crc="3791215651" seo="true" ref="living-space">
+      <caption webpage="living-space" alt=""/>
+    </file>
+    <file name="cro_living_modern_8-crop-u10076.jpg" crc="4072895116" seo="true" ref="living-space">
+      <caption webpage="living-space" alt=""/>
+    </file>
+    <file name="cro_living_modern_2-crop-u12116.jpg" crc="533956953" seo="true" ref="living-space">
+      <caption webpage="living-space" alt=""/>
+    </file>
+    <file name="cro_living_modern_7-crop-u10078.jpg" crc="394300140" seo="true" ref="living-space">
+      <caption webpage="living-space" alt=""/>
+    </file>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_a-master.css" crc="22430703" ref="tablet>contact:tablet>index:tablet>services:tablet>about:tablet>projects"/>
+      <file name="contact.css" crc="213428622" ref="tablet>contact"/>
+      <file name="iefonts_contact.css" crc="77809085" ref="tablet>contact"/>
+      <file name="index.css" crc="122569166" ref="tablet>index"/>
+      <file name="iefonts_index.css" crc="4279393463" ref="tablet>index"/>
+      <file name="services.css" crc="36223964" ref="tablet>services"/>
+      <file name="about.css" crc="31210382" ref="tablet>about"/>
+      <file name="projects.css" crc="494658265" ref="tablet>projects"/>
+    </folder>
+    <file name="index.html" crc="413890070" seo="true" mt="1481317041509" redirect="true"/>
+    <file name="about.html" crc="268846051" seo="true" mt="1429554259487" redirect="true"/>
+    <file name="services.html" crc="3777086019" seo="true" mt="1429554259487" redirect="true"/>
+    <file name="projects.html" crc="421329195" seo="true" mt="1429554259487" redirect="true"/>
+    <file name="contact.html" crc="415953433" seo="true" mt="1481316979962" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="217578970" ref="phone>projects:phone>contact:phone>services:phone>index:phone>about"/>
+      <file name="projects.css" crc="299825157" ref="phone>projects"/>
+      <file name="contact.css" crc="4113466087" ref="phone>contact"/>
+      <file name="iefonts_contact.css" crc="4293491045" ref="phone>contact"/>
+      <file name="services.css" crc="490862660" ref="phone>services"/>
+      <file name="index.css" crc="313278707" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="36510460" ref="phone>index"/>
+      <file name="about.css" crc="393634552" ref="phone>about"/>
+    </folder>
+    <file name="index.html" crc="3824435745" seo="true" mt="1481316975186" redirect="true"/>
+    <file name="about.html" crc="472328308" seo="true" mt="1429554259479" redirect="true"/>
+    <file name="services.html" crc="530253945" seo="true" mt="1429554259479" redirect="true"/>
+    <file name="projects.html" crc="3938577311" seo="true" mt="1429554259479" redirect="true"/>
+    <file name="contact.html" crc="229405520" seo="true" mt="1481316978138" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="3897335406" seo="true" mt="1481665642769" redirect="true"/>
+  <file name="about.html" crc="448449368" seo="true" mt="1481664683875" redirect="true"/>
+  <file name="kitchen.html" crc="267501118" seo="true" mt="1481664496628" redirect="true"/>
+  <file name="contact.html" crc="338826133" seo="true" mt="1481664637317" redirect="true"/>
+  <file name="bathroom.html" crc="407714110" seo="true" mt="1576599875546" redirect="true"/>
+  <file name="living-space.html" crc="3995554770" seo="true" mt="1481664706341" redirect="true"/>
+</manifest>
